@@ -1,0 +1,5 @@
+PROGRAM Square
+    INTEGER :: x
+    x = 5
+    PRINT *, "Square:", x * x
+END PROGRAM Square
